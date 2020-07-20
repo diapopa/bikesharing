@@ -3,7 +3,7 @@
 ## Summary
 From my analysis, I found that the Des Moines population of 214,788 is 2.56% the size of the NYC population of 8.4M but with similar gender distribution of 50.8% and 52.3% female, respectively and similar median age of 33.9 and 36.9, respectively. The similarities do not stop there. Des Moines and NYC have similar climates despite being over one thousand miles apart. They reach similar temperatures in the summer months when the bikes are most used, and rain levels are similar, with Des Moines having slightly more favourable conditions of less precipitation, especially for the months outside of summer. Although Des Moines is much smaller, for every resident, the city will welcome about 64 visitors in a year and in NYC, they welcome eight visitors per resident in a year. This shows that tourism makes up a larger chunk of the economy in Des Moines than it does in NYC. The cities also have similar portion of the population being employed at 51% for Des Moines and 49% for NYC. This is important because the peak times in NYC are during the morning and afternoon work commute. The commute time in NYC is on average 43 minutes, and in Des Moines is 19 minutes. This shorter commute time would make Citi Bikes an attractive alternative to public transit or driving when the weather is favourable. With 2,344,224 records in the month of August for NYC Citi Bike, and the assumption that each record is a unique user, that means 28% of the NYC population used Citi Bike. If we apply that to Des Moines, we will have 60,138 bike records, and essentially, users for August. NYC does have more McDonalds, but they are more scattered and do not line up with the locations of the bike stops.
 
-## Questions and Answers.
+## Questions and Answers
 •	What is the population of Des Moines? 214,778 with +0.902% growth
 •	How does its population compare to the population of New York City? 8.4M with (2.6%) decline
 •	Does the population affect the number of people who will use the bike-sharing program? Yes. With 2,344,224 records in the month of August for NYC Citi Bike, and the assumption that each record is a unique user, that means 28% of the NYC population used Citi Bike. If we apply that to Des Moines, we will have 60,138 bike records, and essentially, users for August.
@@ -25,7 +25,6 @@ Riders are predominantly male, despite the population in NYC being 52.3% female.
 There is a spike of bike records for people born in 1969 but 50% of bike records are from people born between 1982 and 1995 exclusive. Or those between the ages of 25 and 38. This matches with the median age in NYC being 33.9. Since the median age in Des Moines is similar at 36.9, we believe we will have a similar age distribution of CitiBike users in Des Moines.
 
 ### Sources
-Sources:
 https://datausa.io/profile/geo/des-moines-ia/#demographics 
 https://datausa.io/profile/geo/new-york-ny#about [HYPERLINK: https://datausa.io/profile/geo/new-york-ny] https://www.census.gov/quickfacts/desmoinescityiowa
 https://www.census.gov/quickfacts/newyorkcitynewyork
