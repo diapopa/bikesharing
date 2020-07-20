@@ -5,11 +5,17 @@ From my analysis, I found that the Des Moines population of 214,788 is 2.56% the
 
 ## Questions and Answers
 •	What is the population of Des Moines? 214,778 with +0.902% growth
+
 •	How does its population compare to the population of New York City? 8.4M with (2.6%) decline
+
 •	Does the population affect the number of people who will use the bike-sharing program? Yes. With 2,344,224 records in the month of August for NYC Citi Bike, and the assumption that each record is a unique user, that means 28% of the NYC population used Citi Bike. If we apply that to Des Moines, we will have 60,138 bike records, and essentially, users for August.
+
 •	What is the number of employees in Des Moines and what percent of the population is employed? 110,574 or 51%
+
 •	What is the number of employees in NYC and what percent of the population is employed? 4.09M or 49%
+
 •	What is the density of McDonald's in New York City versus Des Moines? Does this affect where people go in the city? If so, how? NYC does have more McDonalds, but they are more scattered and do not line up with the locations of the bike stops.
+
 •	How many visitors does each city have? Des Moines has 13.7 million visitors of 64 per capita and NYC has 65.1 million or about 8 per capita. This makes it seem like Des Moines is a big tourist attraction.
 
 ## Tableau Story Pages Summary
